@@ -1,7 +1,7 @@
 #calculator {
   border: 1px solid rgb(0, 0, 0);
   border-radius: 15px;
-  margin: 50px auto;
+  margin: 50px 465px;
   background-color: #1c1c1c;
   display: grid;
   grid-template-columns: repeat(4, 60px);
